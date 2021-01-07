@@ -4,22 +4,18 @@
 ## Install
 ```
 git clone https://github.com/fentender/book-blog-client
+cd book-blog-client
+npm install
 ```
 
 ## Run
-```
-cd book-blog-client
-```
-### 1.安装npm依赖包
-```
-npm install
-```
-### 2.编译和热加载客户端
+
+### 1.编译和热加载客户端
 通过`http://localhost:8080`地址访问博客
 ```
 npm run serve
 ```
-### 3.生成博客静态文件
+### 2.生成博客静态文件
 ```
 npm run build
 ```
