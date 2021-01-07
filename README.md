@@ -3,7 +3,7 @@
 
 ## Install
 ```
-npm install fentender/book-blog-client
+git clone https://github.com/fentender/book-blog-client
 ```
 
 ## Run
