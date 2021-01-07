@@ -7,6 +7,9 @@ npm install fentender/book-blog-client
 ```
 
 ## Run
+```
+cd book-blog-client
+```
 ### 1.安装npm依赖包
 ```
 npm install
